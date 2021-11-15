@@ -1,6 +1,11 @@
-# Google integration in Nextcloud
+# Google integration in Nextcloud but faster
 
-🇬 Google integration allows you to automatically import your Google calendars, contacts, photos and files into Nextcloud.
+---
+## vConstantSilentSync
+---
+🇬 Google integration allows you to au
+
+tomatically import your Google calendars, contacts, photos and files into Nextcloud.
 
 ## 🔧 Configuration
 
